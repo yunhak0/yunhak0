@@ -16,6 +16,7 @@ My name is Yunhak Oh, a current master's degree candidate for Industrial & Syste
 
 ## Contact
 [![mail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunhak.oh@kaist.ac.kr)](mailto:yunhak.oh@kaist.ac.kr)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younhak-oh/)
 
  <div align=center>
 	
