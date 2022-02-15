@@ -21,7 +21,7 @@ I'm a member of [Data Science and Artificial Intelligence Laboratory (DSAIL)](ht
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/R-FFFFFF?style=flat-square&logo=R&logoColor=blue"/></a>
 
-##3 Contact
+### Contact
 [![mail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yunhak.oh@kaist.ac.kr)](mailto:yunhak.oh@kaist.ac.kr)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younhak-oh/)
 
