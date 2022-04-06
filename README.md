@@ -15,7 +15,7 @@ I'm a member of [Data Science and Artificial Intelligence Laboratory (DSAIL)](ht
 ## Work Experience
 
 - Nielsen (currently, NielsenIQ)
-    - _Manager, Data Science (Jan. 2015 ~ Sep. 2021)_
+    - _Manager, Data Science (Jan. 2015 ~ Aug. 2021)_
 
 ## Languages
 
